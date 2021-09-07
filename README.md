@@ -1,1 +1,2 @@
-#디스코드용 유튜브 노래 재생봇
+# Discord 자바 스크립트 봇
+- Node.js Run BOT
